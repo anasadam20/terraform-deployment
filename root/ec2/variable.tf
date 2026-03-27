@@ -21,3 +21,8 @@ variable "root_volume_id" { default = "" }
 variable "root_volume_size" { default = 20 }
 
 variable "user_data_file" { default = "userdata.sh" }
+
+variable "user_data_file" {
+  description = "Path to the user data script"
+  type        = string
+}
