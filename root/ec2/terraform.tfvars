@@ -16,5 +16,5 @@ iam_role_name     = ""
 extra_policy_arn  = ""
 root_volume_id    = ""
 root_volume_size  = 30
-user_data_file = "${path.module}/userdata.sh"
+user_data_file = "userdata.sh"
 
