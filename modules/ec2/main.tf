@@ -140,6 +140,6 @@ resource "aws_instance" "this" {
     }
   }
 
-  user_data = file("${path.module}/${var.user_data_file}")
+  user_data = file("${path.root}/root/ec2/${var.user_data_file}")
   tags      = var.tags
 }
