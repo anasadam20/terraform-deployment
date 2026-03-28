@@ -1,7 +1,7 @@
 region            = "us-east-1"
 aws_profile       = "myprofile"
 environment       = "dev"
-app_name          = "teamsecond"
+app_name          = "teamsecond1"
 
 ami_id            = "ami-02dfbd4ff395f2a1b"
 instance_type     = "t3.micro"
