@@ -2,7 +2,7 @@ locals {
   # Define tag sets for each application
   app_tags = {
     teamfirst = {
-      Name                  = "teamfirst"
+      Name                  = "teamfirst1"
       project               = "DAL"
       platform              = "aws"
       environment-type      = var.environment
@@ -17,7 +17,7 @@ locals {
     }
 
     teamsecond = {
-      Name                  = "teamsecond"
+      Name                  = "teamsecond2"
       project               = "DAL"
       platform              = "aws"
       environment-type      = var.environment
