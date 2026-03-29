@@ -11,7 +11,7 @@ availability_zone = "us-east-1a"
 
 key_name          = ""                
 public_key_path   = "id_rsa.pub"
-security_group_id = "sg-0348f5a264d2a2c67"
+security_group_id = "sg-084a5b1f35d17ae2d"
 iam_role_name     = ""
 extra_policy_arn  = ""
 root_volume_id    = ""
