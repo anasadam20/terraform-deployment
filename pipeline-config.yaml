@@ -3,4 +3,4 @@ PIPELINE_MODE: create
 ENVIRONMENT: prod
 APP_NAME: webapp
 RESOURCE_TYPE: ec2
-RESOURCE_NAME: webapp-frontend
+RESOURCE_NAME: informatica-server
