@@ -1,4 +1,4 @@
- # options: create, destroy, full
+ # options: create, destroy, change, full
 PIPELINE_MODE: create 
 ENVIRONMENT: prod
 APP_NAME: webapp
